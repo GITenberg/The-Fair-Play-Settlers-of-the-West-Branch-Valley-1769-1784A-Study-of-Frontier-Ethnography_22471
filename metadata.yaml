@@ -1,0 +1,29 @@
+_repo: The-Fair-Play-Settlers-of-the-West-Branch-Valley-1769-1784A-Study-of-Frontier-Ethnography_22471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wolf, George D.
+    birthdate: 1923
+    gutenberg_agent_id: '25342'
+    url: http://www.gutenberg.org/2009/agents/25342
+description: ''
+gutenberg_issued: '2007-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22471'
+  lccn: '76631052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Frontier and pioneer life -- Pennsylvania'
+- !lcsh 'Lycoming County (Pa.) -- History'
+title: 'The Fair Play Settlers of the West Branch Valley, 1769-1784
+
+  A Study of Frontier Ethnography'
+url: http://www.gutenberg.org/ebooks/22471
